@@ -13,7 +13,7 @@ You can see layout/item_calendar, our label, You can add anything and change con
 The magic happens in the MonthAdapter, this use the and ti populate our RecyclerView and show for us.
 
 
-![alt tag](https://github.com/ifucolo/Custom-Calendar-View-Android/master/screnshot.png)
+![alt tag](https://github.com/ifucolo/Custom-Calendar-View-Android/blob/master/CustomCalendar/screnshot.png)
 
 Any Dubts contact me:
 Email: iagofucolo@gmail.com
