@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomCalendar</string>
+    <string name="arrow_back">&lt;</string>
+    <string name="arrow_next">&gt;</string>
+
+</resources>
