@@ -1,6 +1,6 @@
 # Custom-Calendar-View-Android
 
-![play-store-button](https://play.google.com/store/apps/details?id=example.com.customcalendar)
+![button](https://play.google.com/store/apps/details?id=example.com.customcalendar)
 
 
 This app is to developers make your calendar without difficulty.
