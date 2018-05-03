@@ -1,4 +1,4 @@
-# Custom-Calendar-View-Android
+# Smart Custom Calendar
 
 ## TODO List
 - [ ] Change for Lib.
