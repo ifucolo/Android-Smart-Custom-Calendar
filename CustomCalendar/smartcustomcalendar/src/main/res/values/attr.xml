@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SmartCustomCalendar">
+        <attr name="drawableBottomDay" format="integer" />
+        <attr name="backGroundColor" format="reference|color" />
+
+        <attr name="lineDrawableColor" format="reference"/>
+        <attr name="lineVisible" format="boolean"/>
+
+        <attr name="weekDayTextColor" format="reference|color"/>
+        <attr name="weekDayBackGroundColor" format="reference|color"/>
+        <attr name="weekDayFont" format="string"/>
+
+        <attr name="dayFont" format="string"/>
+        <attr name="dayTextColor" format="reference|color" />
+        <attr name="daysBackgroundColor" format="reference|color"/>
+
+        <attr name="monthTextColor" format="reference|color"/>
+        <attr name="monthFont" format="string"/>
+        <attr name="monthVisible" format="boolean"/>
+        <attr name="monthTextFormat" format="enum">
+            <enum name="USA" value="0"/>
+            <enum name="BR" value="1"/>
+            <enum name="ING" value="2"/>
+        </attr>
+
+
+
+    </declare-styleable>
+
+</resources>

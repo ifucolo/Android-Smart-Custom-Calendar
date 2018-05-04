@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="12sp"
+        android:textColor="@android:color/black"
+        android:text="@string/monday"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="5dp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="12sp"
+        android:textColor="@android:color/black"
+        android:text="@string/tuesday"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="5dp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="12sp"
+        android:textColor="@android:color/black"
+        android:text="@string/wednesday"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="5dp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="12sp"
+        android:textColor="@android:color/black"
+        android:text="@string/thursday"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="5dp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="12sp"
+        android:textColor="@android:color/black"
+        android:text="@string/friday"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="5dp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="12sp"
+        android:textColor="@android:color/black"
+        android:text="@string/saturday"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="5dp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="12sp"
+        android:textColor="@android:color/black"
+        android:text="@string/sunday"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="5dp" />
+
+</LinearLayout>
+
+

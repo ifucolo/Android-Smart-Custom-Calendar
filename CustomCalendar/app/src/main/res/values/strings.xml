@@ -3,4 +3,14 @@
     <string name="arrow_back">&lt;</string>
     <string name="arrow_next">&gt;</string>
 
+    <string name="current_month">%1$s / %2$s</string>
+
+    <string name="monday">Seg</string>
+    <string name="tuesday">Ter</string>
+    <string name="wednesday">Qua</string>
+    <string name="thursday">Qui</string>
+    <string name="friday">Sex</string>
+    <string name="saturday">Sáb</string>
+    <string name="sunday">Dom</string>
+
 </resources>
