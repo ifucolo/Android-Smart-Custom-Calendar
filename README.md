@@ -1,6 +1,7 @@
-# Custom-Calendar-View-Android
+# Smart Custom Calendar
 
 ## TODO List
+- [ ] Change for Lib.
 - [ ] Change for kotlin.
 
 [![Build Status](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=example.com.customcalendar)
