@@ -3,7 +3,7 @@
 ## TODO List
 - [x] Change for Lib.
 - [x] Change for kotlin.
-- [ ] Upload Lib.
+- [ ] Upload to maven.
 
 
 [![Build Status](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=example.com.customcalendar)
