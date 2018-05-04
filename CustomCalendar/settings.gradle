@@ -1,1 +1,1 @@
-include ':app', ':smartcustomcalendar', ':smarcustomcalendar'
+include ':app', ':smartcustomcalendar'
